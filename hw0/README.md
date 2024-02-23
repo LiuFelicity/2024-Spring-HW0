@@ -1,5 +1,5 @@
 <img width="316" alt="image" src="https://github.com/LiuFelicity/2024-Spring-HW0/assets/160836046/ba96b15a-2919-4e5f-b305-c6da6100c407">
-![image](https://github.com/LiuFelicity/2024-Spring-HW0/assets/160836046/7e5a8a2a-be2e-40b9-b731-88535d969d96)
+<img width="1431" alt="image" src="https://github.com/LiuFelicity/2024-Spring-HW0/assets/160836046/975425cb-169f-404c-8ee6-813d3c9010e2">
 
 ## Foundry
 
